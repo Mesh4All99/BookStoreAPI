@@ -1,0 +1,6 @@
+@BookStoreAPI_HostAddress = https://localhost:5000
+
+GET {{BookStoreAPI_HostAddress}}/Book
+Accept: application/json
+
+###
